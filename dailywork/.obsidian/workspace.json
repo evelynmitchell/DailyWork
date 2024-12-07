@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-06.md",
-                "mode": "source",
+                "file": "2024-12-07.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-06"
+              "title": "2024-12-07"
             }
           }
         ],
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,12 +176,13 @@
   },
   "active": "22019749d15e7322",
   "lastOpenFiles": [
-    "2024-12-05.md",
     "2024-12-06.md",
-    "Index.md",
+    "2024-12-05.md",
+    "2024-12-07.md",
     "2024-12-04.md",
     "2024-12-03.md",
     "2024-12-02.md",
+    "Index.md",
     "Screenshot from 2024-12-03 08-29-26.png",
     "Screenshot from 2024-12-03 08-33-09.png",
     "Screenshot from 2024-12-03 08-30-23.png",
