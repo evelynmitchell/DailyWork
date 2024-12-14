@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "2024-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "2024-12-13"
             }
           }
         ],
@@ -189,15 +189,18 @@
   },
   "active": "1bfc3994d76c6628",
   "lastOpenFiles": [
-    "DailyNotes/2024-12-02.md",
+    "2024-12-12.md",
     "Index.md",
+    "2024-12-13.md",
+    "DailyNotes/2024-12-11.md",
+    "SysAdminNotes/digital ocean.md",
+    "DailyNotes/2024-12-02.md",
     "DailyNotes",
     "SysAdminNotes",
     "SysAdminNotes/SysAdmin.md",
     "DailyNotes/2024-12-10.md",
     "SysAdminNotes/Skypilot.md",
     "SysAdminNotes/DO droplet.md",
-    "DailyNotes/2024-12-11.md",
     "DailyNotes/2024-12-09.md",
     "DailyNotes/2024-12-07.md",
     "DailyNotes/2024-12-08.md",
