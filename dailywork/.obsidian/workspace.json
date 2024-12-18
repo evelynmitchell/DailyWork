@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-16.md",
+                "file": "2024-12-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-16"
+              "title": "2024-12-18"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36218a93a05af54a",
+  "active": "1bfc3994d76c6628",
   "lastOpenFiles": [
-    "2024-12-18.md",
     "2024-12-17.md",
+    "2024-12-18.md",
+    "2024-12-16.md",
     "Screenshot from 2024-12-18 09-40-08.png",
     "Index.md",
-    "2024-12-16.md",
     "DailyNotes/2024-12-10.md",
     "DailyNotes/2024-12-14.md",
     "DailyNotes/2024-12-12.md",
