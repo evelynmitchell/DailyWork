@@ -1,39 +1,56 @@
 Repository: Daily Work
-Description: notes on daily work, todos, accomplishments, tooling, etc.
+Description: Notes on daily work, todos, accomplishments, tooling, etc.
 
 Directory Structure:
 - dailywork/: markdown notes
-- dailywork/.obsidian : obsidian configuration
-- dailywork/DailyNotes : yyyy-mm-dd.md files 
-    These should also be recorded in the index.md file
-- dailywork/Prompts: markdown files with prompts I have found useful
+- dailywork/.obsidian: obsidian configuration
+- dailywork/DailyNotes: yyyy-mm-dd.md files (indexed in index.md)
+- dailywork/Prompts: markdown files with reusable prompts
 - dailywork/SysAdmin: notes on system administration tasks
-- yyyy-mm-dd.md : unfiled daily notes, more recent
-- dailywork/index.md : index of daily notes
-- dailywork/img/: images inserted into notes
+- dailywork/index.md: master index of daily notes
+- dailywork/img/: images and attachments
+- yyyy-mm-dd.md: unfiled daily notes (pending organization)
 
-Setup:
-- commit the repository to GitHub
-- create today's note in the DailyNotes directory in obsidian
-- copy the prior day's todos into the new note
-- update the prior day's todos with the relevant ones for today
-- update the index.md file with the new note 
-- move old notes into DailyNotes directory
-- update the index.md file with the new note
-- take notes throughout the day
-- commit changes to the repository using a date and timestamp as the commit message
+Daily Workflow:
+1. Start of Day:
+   - Create today's note in DailyNotes (format: yyyy-mm-dd.md)
+   - Review and transfer relevant todos from previous day
+   - Update index.md with the new note
+   - Review pending unfiled notes (root yyyy-mm-dd.md files)
 
+2. Throughout Day:
+   - Document todos, accomplishments, and notes
+   - Use prompts from Prompts/ for consistent documentation
+   - Add screenshots/attachments to img/ with descriptive names
+   - Link related notes using Obsidian wiki-links [[note-name]]
 
-Guidelines:
-- Use the index.md file to keep track of daily notes
-- Use the daily notes to keep track of todos, accomplishments, and notes
-- Use the prompts to help guide daily notes
-- Use the SysAdmin notes to keep track of system administration tasks
-- Use the img directory to store images for notes
-- Use the DailyNotes directory to store daily notes
-- Use the yyyy-mm-dd.md file for unfiled daily notes
-- Use the dailywork directory to store all notes and files
-- Use the .obsidian directory to store obsidian configuration
-- Use the Prompts directory to store prompts for daily notes
-- capture project ideas in the daily notes
-- capture accomplishments in the daily notes
+3. End of Day:
+   - Review and update todo status
+   - Move any unfiled notes to DailyNotes/
+   - Commit changes with message format: "YYYY-MM-DD HH:MM - Daily Update"
+   - Push to GitHub repository
+
+Content Guidelines:
+1. Daily Notes Structure:
+   - Start with date and day of week
+   - Include sections: Todos, Accomplishments, Notes, Ideas
+   - Tag important items with #project, #followup, #urgent
+   - Link to related notes and resources
+
+2. Organization:
+   - Use consistent headers (H1 for title, H2 for main sections)
+   - Create links between related notes
+   - Add context to todos (priority, deadline, dependencies)
+   - Document project ideas with initial scope and goals
+
+3. Version Control:
+   - Commit at least daily
+   - Use meaningful commit messages
+   - Keep sensitive information in separate, non-committed files
+   - Regular backups to remote repository
+
+4. Maintenance:
+   - Weekly review of unfiled notes
+   - Monthly cleanup of obsolete todos
+   - Regular validation of index.md completeness
+   - Archive completed projects to dedicated sections
