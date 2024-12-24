@@ -1,0 +1,39 @@
+Repository: Daily Work
+Description: notes on daily work, todos, accomplishments, tooling, etc.
+
+Directory Structure:
+- dailywork/: markdown notes
+- dailywork/.obsidian : obsidian configuration
+- dailywork/DailyNotes : yyyy-mm-dd.md files 
+    These should also be recorded in the index.md file
+- dailywork/Prompts: markdown files with prompts I have found useful
+- dailywork/SysAdmin: notes on system administration tasks
+- yyyy-mm-dd.md : unfiled daily notes, more recent
+- dailywork/index.md : index of daily notes
+- dailywork/img/: images inserted into notes
+
+Setup:
+- commit the repository to GitHub
+- create today's note in the DailyNotes directory in obsidian
+- copy the prior day's todos into the new note
+- update the prior day's todos with the relevant ones for today
+- update the index.md file with the new note 
+- move old notes into DailyNotes directory
+- update the index.md file with the new note
+- take notes throughout the day
+- commit changes to the repository using a date and timestamp as the commit message
+
+
+Guidelines:
+- Use the index.md file to keep track of daily notes
+- Use the daily notes to keep track of todos, accomplishments, and notes
+- Use the prompts to help guide daily notes
+- Use the SysAdmin notes to keep track of system administration tasks
+- Use the img directory to store images for notes
+- Use the DailyNotes directory to store daily notes
+- Use the yyyy-mm-dd.md file for unfiled daily notes
+- Use the dailywork directory to store all notes and files
+- Use the .obsidian directory to store obsidian configuration
+- Use the Prompts directory to store prompts for daily notes
+- capture project ideas in the daily notes
+- capture accomplishments in the daily notes

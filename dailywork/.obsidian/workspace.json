@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-24.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-24"
+              "title": "Welcome"
             }
           },
           {
@@ -249,23 +249,25 @@
   },
   "active": "72d852b69203d0a5",
   "lastOpenFiles": [
-    "2024-12-23.md",
+    "DailyNotes/2024-12-22.md",
+    "Prompts/MarketingBuildAudience.md",
+    "SysAdminNotes/OpenHands.md",
+    "Prompts/ProCoding Prompt.md",
+    "Prompts/PromptRefinement.md",
+    "img/Pasted image 20241220111108.png",
     "2024-12-24.md",
+    "img",
+    "2024-12-23.md",
     "DailyNotes/2024-12-19.md",
     "2024-12-22.md",
     "DailyNotes/2024-12-21.md",
     "DailyNotes/2024-12-16.md",
     "Index.md",
     "Prompts/MintoWriting.md",
-    "ProCoding Prompt.md",
-    "MarketingBuildAudience.md",
-    "PromptRefinement.md",
     "DailyNotes/2024-12-20.md",
-    "OpenHands.md",
-    "Pasted image 20241220111108.png",
     "DailyNotes/2024-12-18.md",
     "DailyNotes/2024-12-17.md",
-    "Screenshot from 2024-12-18 09-40-08.png",
+    "img/Screenshot from 2024-12-18 09-40-08.png",
     "DailyNotes/2024-12-10.md",
     "DailyNotes/2024-12-14.md",
     "DailyNotes/2024-12-12.md",
@@ -278,10 +280,9 @@
     "SysAdminNotes",
     "SysAdminNotes/SysAdmin.md",
     "SysAdminNotes/Skypilot.md",
-    "SysAdminNotes/DO droplet.md",
-    "Screenshot from 2024-12-03 08-29-26.png",
-    "Screenshot from 2024-12-03 08-33-09.png",
-    "Screenshot from 2024-12-03 08-30-23.png",
+    "img/Screenshot from 2024-12-03 08-29-26.png",
+    "img/Screenshot from 2024-12-03 08-33-09.png",
+    "img/Screenshot from 2024-12-03 08-30-23.png",
     "Prompts"
   ]
 }
