@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2024-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2024-12-26"
             }
           },
           {
@@ -249,20 +249,22 @@
   },
   "active": "72d852b69203d0a5",
   "lastOpenFiles": [
+    "2024-12-24.md",
+    "2024-12-26.md",
+    "Index.md",
+    "Welcome.md",
     "DailyNotes/2024-12-22.md",
     "Prompts/MarketingBuildAudience.md",
     "SysAdminNotes/OpenHands.md",
     "Prompts/ProCoding Prompt.md",
     "Prompts/PromptRefinement.md",
     "img/Pasted image 20241220111108.png",
-    "2024-12-24.md",
     "img",
     "2024-12-23.md",
     "DailyNotes/2024-12-19.md",
     "2024-12-22.md",
     "DailyNotes/2024-12-21.md",
     "DailyNotes/2024-12-16.md",
-    "Index.md",
     "Prompts/MintoWriting.md",
     "DailyNotes/2024-12-20.md",
     "DailyNotes/2024-12-18.md",
@@ -278,8 +280,6 @@
     "DailyNotes/2024-12-02.md",
     "DailyNotes",
     "SysAdminNotes",
-    "SysAdminNotes/SysAdmin.md",
-    "SysAdminNotes/Skypilot.md",
     "img/Screenshot from 2024-12-03 08-29-26.png",
     "img/Screenshot from 2024-12-03 08-33-09.png",
     "img/Screenshot from 2024-12-03 08-30-23.png",
