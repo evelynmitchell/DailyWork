@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-27.md",
+                "file": "2024-12-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27"
+              "title": "2024-12-28"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "72d852b69203d0a5",
   "lastOpenFiles": [
-    "2024-12-26.md",
     "2024-12-27.md",
-    "2024-12-24.md",
+    "2024-12-28.md",
+    "2024-12-26.md",
+    "DailyNotes/2024-12-24.md",
     "Index.md",
     "Welcome.md",
     "DailyNotes/2024-12-22.md",
@@ -176,7 +177,7 @@
     "Prompts/PromptRefinement.md",
     "img/Pasted image 20241220111108.png",
     "img",
-    "2024-12-23.md",
+    "DailyNotes/2024-12-23.md",
     "DailyNotes/2024-12-19.md",
     "2024-12-22.md",
     "DailyNotes/2024-12-21.md",
@@ -192,7 +193,6 @@
     "DailyNotes/2024-12-13.md",
     "note.md",
     "DailyNotes/2024-12-11.md",
-    "SysAdminNotes/digital ocean.md",
     "DailyNotes",
     "SysAdminNotes",
     "img/Screenshot from 2024-12-03 08-29-26.png",
