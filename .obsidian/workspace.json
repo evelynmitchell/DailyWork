@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailywork/2025-01-06.md",
+                "file": "dailywork/2025-01-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-06"
+              "title": "2025-01-08"
             }
           }
         ]
@@ -164,7 +164,9 @@
   },
   "active": "61431619b2caeec2",
   "lastOpenFiles": [
+    "dailywork/2025-01-07.md",
     "dailywork/2025-01-02.md",
-    "dailywork/2025-01-06.md"
+    "dailywork/2025-01-06.md",
+    "dailywork/2025-01-08.md"
   ]
 }
