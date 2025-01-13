@@ -175,7 +175,7 @@ implement the desired PRM, that reliably predicts a reward label for each math r
 ### self-evolution recipe
 a self-evolution recipe in which the policy SLM and PPM are built
 from scratch and iteratively evolved to improve reasoning capabilities
-![[Screenshot from 2025-01-11 10-25-25.png]]
+![[Screenshot from 2025-01-11 10-25-25 1.png]]
 Training with Step-by-Step Verified Reasoning Trajectory
 Round 1: Bootstrapping an initial strong policy SLM-r1.
 Round 2: Training a reliable PPM-r2
