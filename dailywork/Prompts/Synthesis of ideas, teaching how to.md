@@ -8,3 +8,7 @@ If you were to describe the pattern of thought which led to those examples, as a
   
 What rubric would you use, as a mentor, to evaluate the efforts of a student trying to learn that?
 
+How would you evaluate consistency, parsimony, elegance, and fruitfulness?
+
+How would you evaluate a progressive problem shift?
+
