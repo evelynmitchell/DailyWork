@@ -4,67 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "9a768c34ac3ce815",
+        "id": "12ffc9839845c8ea",
         "type": "tabs",
         "children": [
           {
-            "id": "61431619b2caeec2",
+            "id": "c04db84b83a03210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailywork/2025-01-10.md",
+                "file": "dailywork/SysAdminNotes/RL sysadmin/environments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "environments"
             }
           },
           {
-            "id": "a31497b9114feb06",
+            "id": "d5a186ae37ef64a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailywork/2025-01-11.md",
+                "file": "2025-04-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-11"
+              "title": "2025-04-28"
             }
           },
           {
-            "id": "02ad08b4a3ebc21a",
+            "id": "30a7cb97e7c733c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Work Review Prompt.md",
+                "file": "2025-05-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Work Review Prompt"
+              "title": "2025-05-03"
             }
           },
           {
-            "id": "6d80821a899f5e97",
+            "id": "4eb5053998f70069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers Read/rStar-Math 2501.04519.md",
+                "file": "Coaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rStar-Math 2501.04519"
+              "title": "Coaching"
+            }
+          },
+          {
+            "id": "f2da5ba6669496cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailywork/SysAdminNotes/RL sysadmin/Stable Baselines 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stable Baselines 3"
+            }
+          },
+          {
+            "id": "9b91e6d237dd186a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailywork/SysAdminNotes/RL sysadmin/environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "environments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -95,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "0c27da88c1f2ce4d",
@@ -202,36 +231,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31497b9114feb06",
+  "active": "30a7cb97e7c733c3",
   "lastOpenFiles": [
-    "dailywork/2025-01-10.md",
-    "Papers Read/rStar-Math 2501.04519.md",
-    "dailywork/img/Screenshot from 2025-01-11 10-25-25.png",
-    "Screenshot from 2025-01-11 10-25-25.png",
-    "dailywork/img/Screenshot from 2025-01-11 10-17-39.png",
+    "2025-05-02.md",
+    "2025-05-03.md",
+    "2025-05-01.md",
+    "Coaching.md",
+    "dailywork/SysAdminNotes/OpenHands.md",
+    "2025-04-30.md",
+    "2025-04-29.md",
+    "dailywork/img/Screenshot from 2025-04-24 19-38-25.png",
+    "Untitled.canvas",
+    "2025-04-28.md",
+    "MM Papers.md",
+    "dailywork/img/Screenshot from 2025-04-28 18-20-51.png",
+    "dailywork/img/Screenshot from 2025-04-28 18-20-01.png",
+    "dailywork/SysAdminNotes/RL sysadmin/environments.md",
+    "MM",
+    "dailywork/SysAdminNotes/RL sysadmin/Stable Baselines 3.md",
+    "dailywork/img/Screenshot from 2025-04-28 08-17-18.png",
+    "dailywork/SysAdminNotes/RL sysadmin",
+    "2025-04-26.md",
+    "2025-04-25.md",
+    "2025-04-24.md",
+    "2025-04-23.md",
+    "2025-04-22.md",
+    "2025-04-21.md",
+    "2025-04-17.md",
+    "2025-04-18.md",
+    "2025-04-19.md",
+    "2025-04-20.md",
+    "dailywork/img/Screenshot from 2025-04-18 20-19-18.png",
+    "dailywork/Prompts/MintoWriting.md",
+    "2025-04-16.md",
+    "2025-04-15.md",
+    "dailywork/2025-02-28.md",
+    "dailywork/2025-02-27.md",
+    "dailywork/img/Screenshot from 2025-04-11 08-11-23.png",
+    "dailywork/img/Pasted image 20250411081012.png",
+    "dailywork/img/Screenshot from 2025-04-05 08-45-01.png",
+    "dailywork/img/Screenshot from 2025-03-18 07-44-25.png",
+    "dailywork/img/Screenshot from 2025-03-17 20-20-49.png",
     "Papers Read",
-    "dailywork/2025-01-11.md",
-    "dailywork/2025-01-09.md",
-    "dailywork/DailyNotes/2024-12-07.md",
-    "dailywork/DailyNotes/2024-12/2024-12-06.md",
-    "dailywork/DailyNotes/2024-12/2024-12-05.md",
-    "dailywork/DailyNotes/2024-12/2024-12-04.md",
-    "dailywork/SysAdminNotes/gh actions models.md",
-    "dailywork/DailyNotes/2024-12/2024-12-03.md",
-    "dailywork/DailyNotes/2024-12/2024-12-02.md",
-    "dailywork/DailyNotes/2024-12-21.md",
     "dailywork/DailyNotes/2024-12",
-    "Synthesis of ideas, teaching how to.md",
-    "Daily Work Review Prompt.md",
-    "dailywork/Templates/Paper Review Template.md",
-    "dailywork/Templates",
-    "dailywork/DailyNotes/2024-12-27.md",
-    "dailywork/2025-01-08.md",
-    "dailywork/DailyNotes/2025-01-07.md",
-    "dailywork/DailyNotes/2025-01-02.md",
-    "dailywork/DailyNotes/2025-01-06.md"
+    "dailywork/Templates"
   ]
 }
