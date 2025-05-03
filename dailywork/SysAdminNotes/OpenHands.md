@@ -20,3 +20,27 @@ New claude key
 https://docs.all-hands.dev/modules/usage/getting-started
 
 ![[Pasted image 20241220111108.png]]
+
+## networking
+
+https://docs.all-hands.dev/modules/usage/runtimes/docker#hardened-docker-installation
+
+# Create an isolated network
+docker network create openhands-network
+
+# Run OpenHands in the isolated network
+docker run # ... \
+    --network openhands-network \
+    
+    
+    
+
+
+---
+```
+c2stYW50LWFwaTAzLTM2Nmt5SzR5RjV1RHNBUzlOTlVJQ2tLTHdGcXltZjFkdWJETDZCdkFSd1NR
+TGZoTUJQbU9TR2hCbHJJcGg2dXgxWnFJbDFXUVlCeU1MbDFjUms0SWNnLTdvYW1ZQUFBCg==
+AIzaSyBudh4r0fuRSVMZ4ovRzUm1Rult_OJVuv4
+Z2l0aHViX3BhdF8xMUFBSFY3WlkwZWtyb0NBZGR2aXNsX2FjbVZxbEJ1Z3l4WHVHTEZ6WEZWYnlr
+MDFtRVNCV0NHTWJWYTFMT2swSWxCVU40UllXRTQ3SW1zaUhQCg==
+```
