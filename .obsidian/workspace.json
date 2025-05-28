@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "2025-05-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "2025-05-27"
             }
           },
           {
@@ -205,8 +205,9 @@
   },
   "active": "d5a186ae37ef64a0",
   "lastOpenFiles": [
-    "2025-05-25.md",
     "2025-05-26.md",
+    "2025-05-27.md",
+    "2025-05-25.md",
     "2025-05-24.md",
     "2025-05-23.md",
     "2025-05-22.md",
@@ -232,7 +233,6 @@
     "2025-05-07.md",
     "2025-05-06.md",
     "dailywork/SysAdminNotes/OpenHands.md",
-    "2025-05-05.md",
     "dailywork/img/Screenshot from 2025-04-24 19-38-25.png",
     "Untitled.canvas",
     "dailywork/img/Screenshot from 2025-04-28 18-20-51.png",
