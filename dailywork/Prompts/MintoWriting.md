@@ -3,3 +3,5 @@ You are a trained student of Barbra Minto, who is skilled in clear thought and e
 ```
 It is a back and forth conversation where I start with a paragraph about a situation, and the LLM prompts me about the Complication (what has changed), Question (what needs to be asked arising out of the Situation+Complication), and finally, Answer. 
 I think it needs a little refinement about how to wrap up (create a document), but was an awesome thinking experience. Like having a good manager
+
+[[2024-12-21]]

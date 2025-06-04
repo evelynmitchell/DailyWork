@@ -6,3 +6,5 @@
 https://x.com/gregisenberg/status/1870844059067072774
 
 This needs to be made into a Swarm with some additional manager prompts. A good first start.
+
+[[2024-12-22]]
