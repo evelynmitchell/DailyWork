@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailywork/Prompts/Looking for cursorrules and contexts.md",
+                "file": "2025-06-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Looking for cursorrules and contexts"
+              "title": "2025-06-17"
             }
           },
           {
-            "id": "ddfcd37718b07bc7",
+            "id": "cb8757880d76e832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-08.md",
+                "file": "2025-06-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-08"
+              "title": "2025-06-12"
             }
           },
           {
@@ -83,8 +83,7 @@
               "title": "Coaching"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,48 +227,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddfcd37718b07bc7",
+  "active": "d5a186ae37ef64a0",
   "lastOpenFiles": [
-    "2025-06-07.md",
+    "2025-06-16.md",
+    "2025-06-17.md",
+    "Screenshot From 2025-06-16 20-53-30.png",
+    "Screenshot From 2025-06-16 20-53-05.png",
+    "Screenshot From 2025-06-16 20-52-16.png",
+    "Screenshot From 2025-06-16 20-51-35.png",
+    "Screenshot From 2025-06-16 20-43-38.png",
+    "Screenshot From 2025-06-16 13-52-25.png",
+    "Screenshot From 2025-06-16 13-43-31.png",
+    "2025-06-15.md",
+    "2025-06-14.md",
+    "2025-06-12.md",
+    "2025-06-13.md",
+    "dailywork/Prompts/DevSecOpsPrompt.md",
+    "dailywork/Prompts/ManusToolsSystemPrompt.md",
+    "dailywork/Prompts/ManusAgentLoopSystemPrompt.md",
+    "dailywork/Prompts/ManusSystemPrompt.md",
+    "dailywork/Prompts/Looking for cursorrules and contexts.md",
+    "2025-06-10.md",
+    "dailywork/img/Pasted image 20250612203950.png",
+    "2025-06-11.md",
+    "dailywork/img/Screenshot From 2025-05-14 16-25-10.png",
+    "Writing",
+    "Writing/GameTheoryAndReinforcementLearning - Claude.md",
+    "Writing/GameTheoryAndReinforcementLearning - Gemini.md",
+    "dailywork/Prompts/ManusModulesSystemPrompt.md",
+    "2025-06-09.md",
+    "dailywork/Prompts/LovableSystemPrompt.md",
+    "dailywork/Prompts/GithubCopilotSystemPrompt.md",
     "2025-06-08.md",
+    "2025-06-07.md",
     "dailywork/Prompts/DevinSystemPrompt.md",
-    "MM Papers.md",
+    "MM/MM Papers.md",
     "dailywork/Prompts/Coaching.md",
     "dailywork/Prompts/CursorCodingSysyemPrompt.md",
     "dailywork/Prompts/CursorAgentSystemPrompt.md",
-    "dailywork/Prompts/ClineSystemPrompt.md",
-    "dailywork/Prompts/BoltSystemPrompt.md",
-    "2025-06-05.md",
-    "2025-06-06.md",
-    "dailywork/2025-01-26.md",
-    "dailywork/DailyNotes/2025-01-25.md",
-    "dailywork/DailyNotes/2025-01-24.md",
-    "2025-06-04.md",
-    "2025-06-03.md",
-    "dailywork/DailyNotes/2024-12/2024-12-22.md",
-    "dailywork/Prompts/MarketingBuildAudience.md",
-    "dailywork/Prompts/Prompt to create Prompts.md",
-    "dailywork/Prompts/PromptRefinement.md",
-    "dailywork/Prompts/o1 Prompt Anatomy.md",
-    "dailywork/DailyNotes/2024-12/2024-12-21.md",
-    "dailywork/Prompts/MintoWriting.md",
-    "dailywork/Index.md",
-    "dailywork/DailyNotes/2024-12/2024-12-20.md",
-    "dailywork/DailyNotes/2024-12/2024-12-19.md",
-    "Screenshot From 2025-05-14 16-25-10.png",
     "dailywork/DailyNotes/Untitled",
     "dailywork/img/Screenshot from 2025-04-24 19-38-25.png",
     "Untitled.canvas",
-    "dailywork/img/Screenshot from 2025-04-28 18-20-51.png",
-    "dailywork/img/Screenshot from 2025-04-28 18-20-01.png",
     "MM",
-    "dailywork/img/Screenshot from 2025-04-28 08-17-18.png",
     "dailywork/SysAdminNotes/RL sysadmin",
-    "dailywork/img/Screenshot from 2025-04-18 20-19-18.png",
-    "dailywork/img/Screenshot from 2025-04-11 08-11-23.png",
-    "dailywork/img/Pasted image 20250411081012.png",
-    "dailywork/img/Screenshot from 2025-04-05 08-45-01.png",
-    "dailywork/img/Screenshot from 2025-03-18 07-44-25.png",
     "Papers Read",
     "dailywork/DailyNotes/2024-12",
     "dailywork/Templates"
